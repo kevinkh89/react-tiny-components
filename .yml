@@ -1,0 +1,2 @@
+- name: CodeSee Map
+  uses: Codesee-io/codesee-map-action@v1
